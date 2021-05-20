@@ -1,3 +1,3 @@
 # Testing
-Just creating another repository.  
+Created a test repository today.    
 _I am beginning to get this now._
